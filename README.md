@@ -1,6 +1,6 @@
 ### Hola mundo! 🤖
 
-Yo soy Ruslan Lopez, soy desarrollador Senior y actualmente trabajo en IBM.
+Yo soy Ruslan Lopez, soy desarrollador Senior y actualmente estoy abierto para trabajar, si tienes alguna oportunidad no dudes en contactarme.
 Trabajo en tecnologias de la información desde el 2011 y he tenido la oportunidad de trabajar en estas compañias:
 
 * Nextia Games
