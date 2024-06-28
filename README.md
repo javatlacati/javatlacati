@@ -31,7 +31,7 @@ Estas son mis redes sociales:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=badge&logo=TikTok&logoColor=white&link=https://www.tiktok.com/@hombre_de_java)](https://www.tiktok.com/@hombre_de_java)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=badge&logo=codepen&logoColor=white&link=https://codepen.io/javatlacati)](https://codepen.io/javatlacati)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/hombredejava)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@HombreDeJava)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@HombreDeJava)
 
 ## ⚡ Tecnologias
 
