@@ -1,6 +1,6 @@
 ### Hola mundo! 🤖
 
-Yo soy Ruslan Lopez, soy desarrollador Senior y actualmente estoy abierto para trabajar, si tienes alguna oportunidad no dudes en contactarme.
+Yo soy Ruslan Lopez, soy desarrollador Senior y actualmente estoy trabajando para Deloitte, igual, si tienes alguna oportunidad no dudes en contactarme.
 Trabajo en tecnologias de la información desde el 2011 y he tenido la oportunidad de trabajar en estas compañias:
 
 * Nextia Games
@@ -22,6 +22,7 @@ Trabajo en tecnologias de la información desde el 2011 y he tenido la oportunid
 * IBM
   * Standard Insurance
   * Rockwell Automation
+* Deloitte
 
 Estas son mis redes sociales:
 
@@ -29,6 +30,8 @@ Estas son mis redes sociales:
 [![Stack Overflow gringo](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6999690/ruslan-l%c3%b3pez)](https://stackoverflow.com/users/6999690/ruslan-l%c3%b3pez)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=badge&logo=TikTok&logoColor=white&link=https://www.tiktok.com/@hombre_de_java)](https://www.tiktok.com/@hombre_de_java)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=badge&logo=codepen&logoColor=white&link=https://codepen.io/javatlacati)](https://codepen.io/javatlacati)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/hombredejava)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@HombreDeJava)
 
 ## ⚡ Tecnologias
 
@@ -45,13 +48,16 @@ Estas son algunas de las tecnologias con las que me siento cómodo trabajando. N
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=badge&logo=markdown&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=badge&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Backend
+### Backend & Fullstack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=badge&logo=Hibernate&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=badge&logo=Node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Gestores de dependencias / sistemas de construcción
 
