@@ -35,7 +35,7 @@ Estas son mis redes sociales:
 
 ## ⚡ Tecnologias
 
-Estas son algunas de las tecnologias con las que me siento cómodo trabajando. No dudes en preguntare, con gusto te ayudo.
+Estas son algunas de las tecnologias con las que me siento cómodo trabajando. No dudes en preguntarme, con gusto te ayudo.
 
 ### Frontend
 
