@@ -146,3 +146,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Stats
+
+![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatlacati&show_icons=true&theme=gotham&count_private=true)
+![Ruslan's Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=javatlacati&hide=java&layout=compact&theme=gotham)
